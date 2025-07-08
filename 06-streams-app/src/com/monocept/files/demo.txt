@@ -1,0 +1,2 @@
+this is a demo file, for file reading in java
+this is to check the no of letters, words, lines in a file
